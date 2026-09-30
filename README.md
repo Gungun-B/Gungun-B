@@ -1,6 +1,6 @@
 # Hi 👋 I'm Gungun Batham
 
-🎓 Final Year B.Tech (Artificial Intelligence & Machine Learning)
+🎓 B.Tech Graduate(Artificial Intelligence & Machine Learning)
 
 💻 AI/ML Enthusiast
 
@@ -10,9 +10,9 @@
 
 ## 🚀 About Me
 
-I'm a final-year AIML student passionate about building scalable web applications and AI-powered solutions.
+I'm a B.Tech Graduate student passionate about building scalable web applications and AI-powered solutions.
 
-I enjoy solving real-world problems using Python, SQL, and Machine Learning.
+I enjoy solving real-world problems using Python, SQL, and Machine Learning, Gen-ai, LLm, RAGs.
 
 Open for roles:
 
